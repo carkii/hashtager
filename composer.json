@@ -1,0 +1,10 @@
+{
+    "name": "carkii/hashtager",
+    "description": "read / write hashtages",
+    "type": "library",
+    "autoload":{
+    	"psr-4":{
+    		"Carkii\\Hashtager\\":"src/"
+    	}
+    }
+}
