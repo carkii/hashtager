@@ -27,8 +27,8 @@ class Hashtager
 		return $this;
 	}
 
-	public function join(String $joiner = ' '){
-		$this->result = implode($joiner,$this->result);
+	public function joint(String $jointer = ' '){
+		$this->result = implode($jointer,$this->result);
 
 		return $this;
 	}
